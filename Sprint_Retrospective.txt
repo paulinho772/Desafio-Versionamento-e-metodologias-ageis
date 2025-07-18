@@ -1,0 +1,10 @@
+Sprint Retrospective
+
+O que funcionou bem:
+Durante o sprint, todo o processo de desenvolvimento ocorreu de forma fluida e sem dificuldades. Consegui aplicar os conhecimentos de Git e versionamento com sucesso, realizar as alterações solicitadas nas branches específicas e concluir o merge sem problemas.
+
+O que não funcionou bem:
+Nenhuma dificuldade foi encontrada durante o desenvolvimento do sprint. Todo o processo seguiu conforme o esperado.
+
+Sugestões de melhoria:
+Como sugestão, seria interessante estilizar melhor as páginas HTML com uso de CSS, para melhorar a experiência visual do usuário e dar um aspecto mais profissional ao portal.

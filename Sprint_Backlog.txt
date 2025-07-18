@@ -1,0 +1,15 @@
+Sprint Backlog
+
+Histórias Selecionadas para o projeto
+
+História 1
+
+ID: 1
+Descrição: Na página index, deixar a fonte com os nomes dos veículos na cor azul para proporcionar uma melhor experiência de usuário.
+Esforço estimado: 1
+
+História 2
+
+ID: 3
+Descrição: Na página contato, detalhar os nomes dos links para as outras páginas, para facilitar o entendimento e a navegação no portal.
+Esforço estimado: 1
